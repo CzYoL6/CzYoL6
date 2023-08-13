@@ -9,5 +9,3 @@ I like to do game programming(using Unity and Unreal) and  also like to star int
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CzYoL6)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CzYoL6)  
-
