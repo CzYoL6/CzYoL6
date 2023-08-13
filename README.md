@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is czyol
+#### I am a post graduate student majored in software engineering.
+I like to do game programming(using Unity and Unreal) and  also like to star interesting repositories, espesially game dev tools.
 
-<!--
-**CzYoL6/CzYoL6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :bulb: My Skills: C++/ Unity / Unreal
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning game engine development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CzYoL6)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CzYoL6)  
+
