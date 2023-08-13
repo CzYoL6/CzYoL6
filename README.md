@@ -6,6 +6,3 @@ I like to do game programming(using Unity and Unreal) and  also like to star int
 
 - 🌱 I’m currently learning game engine development 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CzYoL6)  
-
